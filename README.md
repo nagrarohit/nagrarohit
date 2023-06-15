@@ -9,6 +9,6 @@
 
 #### Github Stats 📊
 
-[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=nagrarohit)](https://github.com/nagrarohit/github-readme-stats)
+[![nagrarohit's github stats](https://github-readme-stats.vercel.app/api?username=nagrarohit)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagrarohit&layout=compact)](https://github.com/nagrarohit)
