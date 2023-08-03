@@ -1,14 +1,14 @@
- <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
-<h1 align="center">Hlo  👋,This is nagrarohit</h1>
- <p align="center" >
+<h1 align="center">Hlo  👋, This is nagrarohit</h1>
+<p align="center">
   Welcome to my GitHub profile! I'm a passionate blockchain developer.
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagrarohit&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Your GitHub stats">
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nagrarohit&show_icons=true&count_private=true&theme=radical" alt="Your GitHub stats">
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagrarohit&layout=compact&theme=radical" alt="Top Language Used">
 </p>
@@ -23,4 +23,3 @@
 </p>
 
 <h2 align="center">💬 Ask me about Blockchain development</h2>
-   
