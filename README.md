@@ -5,10 +5,6 @@
   Welcome to my GitHub profile! I'm a passionate blockchain developer.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nagrarohit" alt="Profile Visits">
-</p>
-
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nagrarohit&show_icons=true&count_private=true&theme=radical" alt="Your GitHub stats">
