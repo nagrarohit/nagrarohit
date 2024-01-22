@@ -15,7 +15,7 @@
 <p align="center">
   
   <br>
-  <img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=violet" alt="Solidity">
+  <img src="https://img.shields.io/badge/Solidity-8A2BE2?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
