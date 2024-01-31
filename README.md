@@ -22,4 +22,8 @@
 <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 </p>
-
+<p align="center">
+  <a href="https://github.com/nagrarohit">
+   <img src="https://c.tenor.com/8CnlmiFa-rAAAAAj/eth-ethereum.gif" align="center" width="15%"/>
+</a>
+</p>
