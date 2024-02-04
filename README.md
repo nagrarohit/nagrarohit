@@ -24,6 +24,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/nagrarohit">
-   <img src="https://c.tenor.com/8CnlmiFa-rAAAAAj/eth-ethereum.gif" align="center" width="15%"/>
-</a>
+    <img src="https://c.tenor.com/8CnlmiFa-rAAAAAj/eth-ethereum.gif" alt="ETH GIF" width="15%" />
+  </a>
+  <a href="https://github.com/nagrarohit">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDg5OW90czQwdzJ1dnp6MmliamZycmNta2diaHk2amFldmVtam15YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n3uMAjOvkBdDamT0iw/source.gif" alt="Second GIF" width="15%"  />
+  </a>
 </p>
+
